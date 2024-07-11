@@ -1,1 +1,1 @@
-# Networks
+# Simple repository covering the type of network topologies and relevant technologies
