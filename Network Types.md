@@ -7,9 +7,11 @@
 
 #### Personal Area Network (PAN)
 * Enables communication between devices around a person
-* Can be wired or wireless
-* Examples: USB/Firewire/Infrared/ZigBee/Bluetooth
+* Wired technologies: USB/Firewire
+* Wireless technologies: Infrared/ZigBee/Bluetooth/RFID
 * Range from few cm to metres
+* Advantages: Flexible, easy to setup, portable
+* Disadvantages: Limited range, limited bandwidth
 * PANs are also used to connect laptops, tablets,
 printers, keyboards, and other computerized devices.
 * Eg: Connection between bluetooth earpiece and smartphone
@@ -25,21 +27,32 @@ printers, keyboards, and other computerized devices.
 * Wireless LAN, links two or more devices
 using wireless communication to form a LAN within a limited area, 
 * such as `a home, school, computer lab, campus, office building`
-* Through a `gateway device (router)`, a WLAN can also provide a connection to the wider Internet.
+* Through a `gateway device (router)`, a WLAN can also provide a connection to the wider Internet such as  via wifi signals from
+`wifi routers, modems, and wireless access points`.
 * WLANs are used in smartphones, tablets, laptops, and gaming consoles.
+* Advantages: Reliability and versatility. High data transmission rates. Easier to manage.
+* Disadvantages: Smaller network coverage area.
+The number of devices affects speed. There are security risks.
+* Examples: `Wifi-5`
 
 #### Metropolitian Area Network (MAN)
 * Metropolitan Area Network,is a network that spans an entire city, a campus, or a small region.
 * MANs are sometimes referred to as CANs (Campus Area Networks).
 * A MAN is optimized for a larger geographical area than a LAN, ranging from several building blocks to entire cities.
 * A MAN is typically formed from connecting several LANs
-* Eg: `cable tv networks, telephone networks or any free or public wifi system provided to city residents`
+* Eg: `cable tv networks, telephone networks providing high speed DSL lines or any free or public wifi system provided to city residents`
+* `MAN or WMAN`:
+Covers multiple city locations.
+Is easy to use, extend, and exchange.
+And is managed by an ISP, government entity, or corporation.
+* `Disadvantages`: Requires special user permissions. Has the higher costs and security risks that come with larger networks.
+* Examples: `WiMax` is a WMAN that connects several LANS together
 
 #### Wide Area Network (WAN)
-* Wide Area Network, is a network that extends over a large geographic area.
+* Wide Area Network, is a network that provides `global coverage`
 * Often established with `leased telecommunication circuits`
 * Often used by Schools, Businesses and Government entities to relay data from almost anywhere in the world
-* Eg: `The internet`
+* Eg: `The internet and the cellular network`.
 
 #### Virtual Private Network (VPN)
 * Virtual Networks are `software-based`
@@ -109,3 +122,24 @@ has its own star network, and all the central computers are linked in a campus-w
 
 ### Logical Topology
 * Describes how `data flows` across the physically connected network devices.
+
+## Advantages & Disadvantages of network types
+
+#### Advantages
+> Networks provide:
+* Sharing of files and devices (like printers, security cameras, and sensors).
+* Centralized resources like storage databases,
+which enable bulk software installation, easy backups, and larger storage capacity.
+* Remote access when away from computer
+* Reduce hardware & software costs
+* Enable control over security and access
+
+
+#### Disadvantages
+* Require more maintenance than just 1 device
+* Learning curve to have the technical expertise for networks
+* More vulnerable to viruses and hacking
+* More expensive than using a single device
+* Require dependencies for other systems and users to function
+
+
