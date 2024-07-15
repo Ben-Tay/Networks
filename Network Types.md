@@ -23,18 +23,6 @@ printers, keyboards, and other computerized devices.
 * LANs enable network devices to share resources like printers or network storage.
 * LANs require cables, switches, and routers so users can connect to internal servers, websites, and other LANs.
 
-#### Wireless Local Area Network (WLAN)
-* Wireless LAN, links two or more devices
-using wireless communication to form a LAN within a limited area, 
-* such as `a home, school, computer lab, campus, office building`
-* Through a `gateway device (router)`, a WLAN can also provide a connection to the wider Internet such as  via wifi signals from
-`wifi routers, modems, and wireless access points`.
-* WLANs are used in smartphones, tablets, laptops, and gaming consoles.
-* Advantages: Reliability and versatility. High data transmission rates. Easier to manage.
-* Disadvantages: Smaller network coverage area.
-The number of devices affects speed. There are security risks.
-* Examples: `Wifi-5`
-
 #### Metropolitian Area Network (MAN)
 * Metropolitan Area Network,is a network that spans an entire city, a campus, or a small region.
 * MANs are sometimes referred to as CANs (Campus Area Networks).
