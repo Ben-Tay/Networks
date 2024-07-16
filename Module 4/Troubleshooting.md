@@ -24,6 +24,7 @@ wmic/node: localhost diskdrive get status # gives status of disk
 * Recall that bad sectors are `unreliable parts` of a disk
 * Needs administrator rights 
 ```sh
+chkdsk /scan
 chkdsk /r # locates bad sectors each time it is run
 chkdsk /f # fixes file system errors but wont find bad sectors
 ```
